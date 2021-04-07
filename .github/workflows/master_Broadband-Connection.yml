@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'Broadband-Connection'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b81a1c8748854c07a49ee172b3d92537 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b9c010a1143e4ee592f1abb13a6af7bb }}
